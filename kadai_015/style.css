@@ -1,9 +1,9 @@
 body {
     font-family: "Arial", "Meiryo", sans-serif;
   }
-  p {
-    font-size: 20px;
-  }
+  html {
+     font-size: 20px; 
+    }
   .blue {
     color: skyblue;
   }
@@ -11,10 +11,10 @@ body {
     color: rgb(255,192,203);
   }
   h1 {
-    font-family: "Noto Sans JP", sans-serif;
-  font-optical-sizing: auto;
-  font-weight: 400;
-  font-style: normal;
+    font-family: "Josefin Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: <weight>;
+    font-style: normal;
    }
    h1 {
     font-size: 40px;
